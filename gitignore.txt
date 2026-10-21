@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and model artifacts
+*.pkl
+*.joblib
+*.model
+outputs/
+models/
+
+# Local data (uncomment if you do not want to commit the dataset)
+# Risk_Alert_Classifier_Dataset_4600(1).csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
