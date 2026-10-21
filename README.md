@@ -36,6 +36,15 @@ The dataset contains approximately **4,600 customer records**.
 -   Evaluate models with classification metrics and visualizations.
 -   Provide an easy-to-use interface with Streamlit.
 
+## 🚀 Live Demo
+
+🌐 **Try the Risk Alert Classifier here:**
+
+👉 [**Launch Risk Alert Classifier App**](https://risk-alertclassifier.streamlit.app/)
+
+Experience the live Machine Learning application to explore customer risk classification, model training, and performance evaluation.
+
+
 ## ✨ Key Features
 
 -   📂 Upload a CSV dataset through the web interface.
